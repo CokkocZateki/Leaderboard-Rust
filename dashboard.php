@@ -114,7 +114,7 @@ $.ajax({
 	var table = $('#tables').DataTable()	
 	var order = table.order();
 	
-	table.order( [ 1, 'desc' ] )
+	table.order( [ 0, 'desc' ] )
     .draw();
 	
 	
