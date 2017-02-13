@@ -17,3 +17,5 @@ Once you have found a plugin that can record the data for you and have set up th
 You are able to make changes to the core of the DataTables table, but you must do so through manipulation of the API itself as this script does not natively work with DataTables without modifying the API.
 
 <a href="https://datatables.net/reference/api/">DataTables API</a>
+
+An example of a website actively running the script can be found <a href="http://www.rustoria.uk/leaderboard">here</a>
