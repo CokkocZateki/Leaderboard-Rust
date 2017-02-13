@@ -22,7 +22,7 @@
 		<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 		<link href="assets/css/style.css" rel="stylesheet" type="text/css">
 		<link href="assets/css/hover.css" rel="stylesheet" media="all">
-		<title>Your Leaderboards</title>
+		<title>Rustoria Leaderboards</title>
 		</head>
 	
 	<body>
@@ -35,15 +35,15 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="pageheader navbar-brand" href="#">Your Leaderboard</a>
+          <a class="pageheader navbar-brand" href="#">Rustoria Leaderboard</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="http://www.rustoria.uk/">Home</a></li>
-            <li><a href="#">Donate</a></li>
-            <li><a href="#">Forum</a></li>
-            <li><a href="#">Steam Group</a></li>
-			<li><a href="#">Vote</a></li>
+            <li><a href="http://donate.rustoria.uk">Donate</a></li>
+            <li><a href="http://www.rustoria.uk/forum/">Forum</a></li>
+            <li><a href="http://www.steamcommunity.com/groups/rustoria">Steam Group</a></li>
+			<li><a href="http://www.rustoria.uk/#vote">Vote</a></li>
           </ul>
         </div>
       </div>
@@ -52,8 +52,8 @@
 	
 <div id="tablepanel" class="table-responsive">
 <div class="page-header">
-  <h1>Your Leaderboards</h1>
-  <h3>Example heading</h3>
+  <h1>Rustoria Leaderboards</h1>
+  <h4>Statistics are reset per wipe. Select the server you wish to search for using the buttons below.</h3>
 </div>
 <div id="buttoncontainer">
 <div id="dashbuttons" role="group" aria-label="...">
